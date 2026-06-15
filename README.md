@@ -2,7 +2,8 @@
 # 🐱 Nyam – Your Ultimate Cat Companion
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x200?text=Nyam" alt="Nyam Logo">
+  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c4d6bc05-3df7-4b1b-99ad-373b15157cf5" />
+" alt="Nyam Logo">
 </p>
 
 <p align="center">
