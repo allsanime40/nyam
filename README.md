@@ -6,11 +6,6 @@
 # 🐱 Nyam – Your Ultimate Cat Companion
 
 ### Learn Care and Connect with the Wonderful World of Cats
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Category](https://img.shields.io/badge/Category-Cat%20Guide-pink)
-![Version](https://img.shields.io/badge/Version-1.0-blue)
-
 </div>
 
 ---
