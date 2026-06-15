@@ -1,2 +1,2 @@
 # nyam
-Ruang Nyam
+Nyam ialah aplikasi mudah alih yang direka untuk membantu pengguna mencari, meneroka dan menempah makanan dengan mudah. Aplikasi ini menyediakan cadangan makanan berdasarkan citarasa pengguna, lokasi semasa, dan pilihan diet. Pengguna juga boleh melihat menu, membuat tempahan, menilai makanan, serta berkongsi ulasan dengan komuniti. Dengan antaramuka yang mesra pengguna dan sistem yang pantas, Nyam menjadikan pengalaman mencari dan menikmati makanan lebih mudah, menarik, dan efisien.
